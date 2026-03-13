@@ -2,7 +2,7 @@
 
 > Witlink 公共组件库，仅包含与业务无关的组件、指令、勾子、工具方法等。持续完善中。。。
 
-- 📖 [**帮助文档**](https://witlink.cloud/docs/](https://magicwang.github.io/witlink-vue-components/)
+- 📖 [**帮助文档**](https://magicwang.github.io/witlink-vue-components/)
 
 ### 如何使用@witlink/components
 
