@@ -1,0 +1,1 @@
+import{d as c,aI as s,ad as t,o,c as n,A as r}from"./framework.DTGqKeq6.js";const d=c({__name:"space",setup(i){const e=r("1234567890123456");return(l,p)=>{const a=s("space");return t((o(),n("div",null,null,512)),[[a,e.value]])}}});export{d as default};

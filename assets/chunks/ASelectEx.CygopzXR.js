@@ -1,0 +1,1 @@
+import{d as a,G as n,o as s,b as p,A as r}from"./framework.DTGqKeq6.js";const d=a({__name:"ASelectEx",setup(c){const e=r();return(u,t)=>{const o=n("a-select-ex",!0);return s(),p(o,{options:["CIS","AMI","MDM"],value:e.value,"onUpdate:value":t[0]||(t[0]=l=>e.value=l),placeholder:"请选择",inputPlaceholder:"请输入",style:{width:"200px"}},null,8,["value"])}}});export{d as default};

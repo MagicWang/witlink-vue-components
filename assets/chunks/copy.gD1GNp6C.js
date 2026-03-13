@@ -1,0 +1,1 @@
+import{C as s}from"./theme.CoEyAl-b.js";import{d as o,aI as t,o as c,c as r,j as n,t as l,ad as i,J as p,k as u,A as d}from"./framework.DTGqKeq6.js";const k=o({__name:"copy",setup(_){const e=d("RF0000000018");return(m,f)=>{const a=t("copy");return c(),r("div",null,[n("span",null,l(e.value),1),i(p(u(s),{class:"pointer ml-xs"},null,512),[[a,e.value]])])}}});export{k as default};

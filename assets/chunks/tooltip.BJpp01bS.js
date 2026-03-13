@@ -1,0 +1,1 @@
+import{d as o,aI as a,ad as s,o as c,c as i,a as r,t as n,A as l}from"./framework.DTGqKeq6.js";const p={class:"pointer"},v=o({__name:"tooltip",setup(_){const e=l("RF0000000018R");return(d,m)=>{const t=a("tooltip");return s((c(),i("a",p,[r(n(e.value),1)])),[[t,e.value]])}}});export{v as default};

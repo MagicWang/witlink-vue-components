@@ -1,0 +1,1 @@
+import{_ as r,G as n,o as a,b as c,w as e,a as o}from"./framework.DTGqKeq6.js";const l={};function _(i,t){const s=n("wl-splitter");return a(),c(s,{class:"container"},{left:e(()=>[...t[0]||(t[0]=[o(" First ",-1)])]),right:e(()=>[...t[1]||(t[1]=[o(" Second ",-1)])]),_:1})}const d=r(l,[["render",_],["__scopeId","data-v-f50dad17"]]);export{d as default};

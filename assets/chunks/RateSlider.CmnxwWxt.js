@@ -1,0 +1,1 @@
+import{d as s,G as r,o as u,b as p,A as _}from"./framework.DTGqKeq6.js";const i=s({__name:"RateSlider",setup(c){const e=_([50,70,90]);function a(n){console.log(n)}return(n,o)=>{const l=r("wl-rate-slider");return u(),p(l,{value:e.value,"onUpdate:value":o[0]||(o[0]=t=>e.value=t),style:{width:"500px"},onChange:a},null,8,["value"])}}});export{i as default};
